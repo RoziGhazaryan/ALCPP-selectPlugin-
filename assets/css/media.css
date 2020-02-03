@@ -1,0 +1,22 @@
+@media (max-width: 575.98px) {
+    /*==================================registration-style-start=======================================*/
+
+    .registration {
+        padding: 90px 15px;
+    }
+
+    .registration-title h2 {
+        font-size: 25px;
+    }
+
+    .registration-block {
+        margin-bottom: 20px;
+    }
+
+    .registration-block label input {
+        height: 38px;
+    }
+
+    /*==================================registration-style-end=======================================*/
+
+}
